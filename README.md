@@ -20,7 +20,7 @@
       "
     >
       <div style="width: 300px; height: 300px; text-align: center">
-        <h3 style="font-weight: bold;  color: white;">POSSO COMER SEU CUZINHO HOJE?</h3>
+        <h3 style="font-weight: bold;  color: white;">MINHA PRETA, POSSO COMER SEU CUZINHO HOJE?</h3>
         <button
           style="
             margin-right: 10px;
